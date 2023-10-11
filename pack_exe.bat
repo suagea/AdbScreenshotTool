@@ -1,1 +1,1 @@
-pyinstaller --icon=my_icon.ico --add-data "adb_tool;adb_tool" .\AdbScreenshotTool.py
+.\venv\Scripts\pyinstaller.exe --icon=my_icon.ico --add-data "adb_tool;adb_tool" .\AdbScreenshotTool.py
